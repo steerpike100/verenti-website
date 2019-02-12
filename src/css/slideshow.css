@@ -32,23 +32,21 @@
 }
 
 /* tabs (those little circles below slides) */
-.slidetabs {
-	position:absolute;
-	top:345px;
-	right:20px;		
-	/*clear:both;
-	margin-left:330px;*/
+#slidetabs {
+  margin: 80px auto;
+  position: relative;
+  width: 240px;
+  height: 240px;
+  padding: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
 
-/* single tab */
-.slidetabs a {
-	width:8px;
-	height:8px;
-	float:left;
-	margin:3px;
-	background:url(../images/navigator.png) 0 0 no-repeat;
-	display:block;
-	font-size:1px;		
+#slidetabs > div {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
 }
 
 /* mouseover state */
