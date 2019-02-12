@@ -52,8 +52,9 @@ header {
 }
 
 header h1 {
+  text-shadow: 5px 5px 5px #888 ;
 	padding:20px 20px 20px 97px;
-	color:#353535;
+	color: #407a01;
 	font-size:42px;
 	}
 	
@@ -101,7 +102,7 @@ header p:hover {
 	position: absolute; 
 	top: 12px; 
 	left: 20px; 
-	background: url(../images/logo_small.png) no-repeat; 
+	background: url(../images/logo_small.png) no-repeat;
 	width: 61px; 
 	height: 62px;
 	text-indent:-9999px;
