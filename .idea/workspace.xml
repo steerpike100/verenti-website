@@ -2,29 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="070acb5b-f516-4927-9f92-af8ad1ee00c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/css/overlay-basics.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gradient/bg_gradient.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gradient/dots.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gradient/dots.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gradient/h300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gradient/hori_large.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gradient/killerfrog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gradient/killerfrog2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gradient/killerfrog3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gradient/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gradient/logo_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gradient/title_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gradient/title_fold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/navigator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/amazingslider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/froogaloop2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/initslider-1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overlay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/verenti-website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/verenti-website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pragmatic/src/css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pragmatic/src/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pragmatic/src/js/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pretentious/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pretentious/src/humans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pretentious/src/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pretentious/src/site.webmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/slideshow.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/slideshow.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index_pragmatic.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index_pragmatic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/jquery.scrollex.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/js/jquery.scrollex.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/skel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/js/skel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/assets/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cookies-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/cookies-policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/overlay-basics.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/css/overlay-basics.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/slideshow.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/css/slideshow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doc/TOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doc/css.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doc/extend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doc/faq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doc/html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doc/js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doc/misc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doc/usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/chunkfive-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/fonts/chunkfive-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/chunkfive-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/fonts/chunkfive-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/chunkfive-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/fonts/chunkfive-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/chunkfive-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/fonts/chunkfive-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generic.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/generic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html5.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/html5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/humans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/bg_gradient.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/gradient/bg_gradient.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/bishops_palace.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/bishops_palace.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dick.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/dick.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dots.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/dots.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dots.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/dots.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gradient/bg_gradient.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/bg_gradient.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gradient/dots.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/gradient/dots.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gradient/dots.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/gradient/dots.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gradient/h300.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/gradient/h300.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gradient/hori_large.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/gradient/hori_large.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gradient/killerfrog.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/gradient/killerfrog.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gradient/killerfrog2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/gradient/killerfrog2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gradient/killerfrog3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/gradient/killerfrog3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gradient/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/gradient/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gradient/logo_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/gradient/logo_small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gradient/title_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/gradient/title_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gradient/title_fold.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/gradient/title_fold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/housman.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/housman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/killerfrog.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/killerfrog.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/killerfrog2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/killerfrog2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/killerfrog3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/killerfrog3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/larkin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/larkin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/lee.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/lee.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/logo_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/logo_small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/mendip_panorama.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/mendip_panorama.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/navigator.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/navigator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/apple-close.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/apple-close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/apple.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/apple.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/black.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/flowplayer.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/flowplayer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/frog_over1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/frog_over1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/frog_over2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/frog_over2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/frog_over3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/frog_over3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/frog_thumb1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/frog_thumb1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/frog_thumb2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/frog_thumb2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/frog_thumb3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/frog_thumb3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/gray.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/petrol.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/petrol.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/red.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/transparent.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/transparent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/white.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/white_chromebutton.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/white_chromebutton.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/overlay/white_close.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/overlay/white_close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/peake.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/peake.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/pic01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/pic02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/pic03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/pic04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/pic04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/title_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/title_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/title_fold.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/images/title_fold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/tor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/tor.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/vicars_close.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/images/vicars_close.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index_pragmatic.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/index_pragmatic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index_pretentious.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretentious/src/index_pretentious.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/amazingslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/froogaloop2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/initslider-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/music/tower.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/overlay.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/overlay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/src/pragmatic/src/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/social.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tile-wide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/underground.mp4" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,38 +131,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/slideshow.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index_pragmatic.html">
+        <entry file="file://$PROJECT_DIR$/src/pragmatic/src/forms.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1664">
-              <caret line="124" selection-start-line="124" selection-end-line="124" />
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/source-files/source_files/html5_v3/finished/index.html">
+        <entry file="file://$PROJECT_DIR$/src/pragmatic/src/index_pragmatic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1732">
-              <caret line="115" selection-start-line="22" selection-start-column="4" selection-end-line="115" />
+            <state relative-caret-position="187">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pragmatic/src/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3740">
+              <caret line="220" selection-start-line="220" selection-end-line="220" />
             </state>
           </provider>
         </entry>
@@ -119,14 +204,20 @@
         <option value="$PROJECT_DIR$/src/social.html" />
         <option value="$PROJECT_DIR$/src/landingpage.html" />
         <option value="$PROJECT_DIR$/src/style.css" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/index_pretentious.html" />
         <option value="$PROJECT_DIR$/src/assets/css/main.css" />
         <option value="$PROJECT_DIR$/src/html5.html" />
         <option value="$PROJECT_DIR$/src/css/style.css" />
         <option value="$USER_HOME$/Desktop/source-files/source_files/html5_v3/finished/index.html" />
         <option value="$PROJECT_DIR$/src/css/slideshow.css" />
+        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/index_pragmatic.html" />
+        <option value="$PROJECT_DIR$/src/pragmatic/index_pragmatic.html" />
+        <option value="$PROJECT_DIR$/src/pragmatic/src/js/form.js" />
+        <option value="$PROJECT_DIR$/src/pragmatic/forms.html" />
+        <option value="$PROJECT_DIR$/src/pragmatic/src/index_pragmatic.html" />
+        <option value="$PROJECT_DIR$/src/pragmatic/src/css/style.css" />
+        <option value="$PROJECT_DIR$/src/pragmatic/src/forms.html" />
       </list>
     </option>
   </component>
@@ -148,6 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,24 +256,28 @@
               <item name="verenti-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="verenti-website" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pragmatic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="verenti-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="verenti-website" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pragmatic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="verenti-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="verenti-website" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pragmatic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="verenti-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="verenti-website" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="verenti-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="verenti-website" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="gradient" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="verenti-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="verenti-website" type="462c0819:PsiDirectoryNode" />
+              <item name="pragmatic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -189,7 +285,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,18 +305,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\verenti-website\src\pragmatic" />
+      <recent name="C:\verenti-website\src\pretentious\src" />
+      <recent name="C:\verenti-website\src\pragmatic\src" />
       <recent name="C:\verenti-website\src\images" />
       <recent name="C:\verenti-website\src\css" />
-      <recent name="C:\verenti-website" />
-      <recent name="C:\verenti-website\src" />
-      <recent name="C:\verenti_website\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\verenti-website\src" />
-      <recent name="C:\verenti-website\src\css" />
-      <recent name="C:\verenti-website\src\images\gradient" />
-      <recent name="C:\verenti-website\src\images" />
-      <recent name="C:\verenti-website\src\images\slider" />
+      <recent name="C:\verenti-website\src\pragmatic\src\css" />
+      <recent name="C:\verenti-website\src\pragmatic\src\js" />
+      <recent name="C:\verenti-website\src\pragmatic\src" />
+      <recent name="C:\verenti-website\src\pretentious\src" />
+      <recent name="C:\verenti-website\src\pragmatic" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -240,7 +335,7 @@
     <configuration name="cycling.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/verenti-website/src/cycling.html">
       <method v="2" />
     </configuration>
-    <configuration name="index_pragmatic.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/verenti-website/src/index_pragmatic.html">
+    <configuration name="index_pragmatic.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/verenti-website/src/pragmatic/src/index_pragmatic.html">
       <method v="2" />
     </configuration>
     <list>
@@ -283,16 +378,17 @@
       <workItem from="1549790352134" duration="16789000" />
       <workItem from="1549818087192" duration="83000" />
       <workItem from="1549879696184" duration="13343000" />
-      <workItem from="1549969156673" duration="8926000" />
+      <workItem from="1549969156673" duration="10645000" />
+      <workItem from="1550052039214" duration="874000" />
+      <workItem from="1550078527987" duration="1131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63240000" />
+    <option name="totallyTimeSpent" value="66964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3192" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1406744" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -309,7 +405,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.11777778" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -319,50 +415,21 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/humans.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/bootstrap-reboot.min.css" />
-    <entry file="file://$PROJECT_DIR$/src/css/bootstrap.css.map" />
-    <entry file="file://$PROJECT_DIR$/src/css/lightbox.min.css" />
-    <entry file="file://$PROJECT_DIR$/src/lightbox2-master/src/css/lightbox.css" />
-    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/ticketmasterbot.user.js" />
-    <entry file="file://$PROJECT_DIR$/gulpfile.babel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/lightbox-plus-jquery.min.js" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/bootstrap.min.css" />
-    <entry file="file://$PROJECT_DIR$/src/lightbox2-master/src/js/lightbox.js" />
-    <entry file="file://$PROJECT_DIR$/src/cycling.html" />
     <entry file="file://$PROJECT_DIR$/src/js/bootstrap.bundle.min.js" />
     <entry file="file://$PROJECT_DIR$/src/js/main.js" />
     <entry file="file://$PROJECT_DIR$/src/js/plugins.js" />
     <entry file="file://$PROJECT_DIR$/src/js/cookies-consent.js" />
-    <entry file="file://$PROJECT_DIR$/src/cookies-policy.html">
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/cookies-policy.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/admin.html">
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/admin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/site.webmanifest">
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/site.webmanifest">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/.editorconfig">
@@ -375,55 +442,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/about.html">
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/contact.html">
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/social.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/js/main.js">
+    <entry file="file://$PROJECT_DIR$/src/social.html" />
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
           <caret line="4152" column="31" lean-forward="true" selection-start-line="4152" selection-start-column="31" selection-end-line="4152" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index_pretentious.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/html5.html">
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/html5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="6" lean-forward="true" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -434,27 +481,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/dots.psd">
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/images/killerfrog.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/dots.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/killerfrog.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/logo_small.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/logo_me.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/logo_me.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/logo_me.png" />
+    <entry file="file://$PROJECT_DIR$/src/images/logo_me.jpg" />
     <entry file="file://$USER_HOME$/Desktop/source-files/source_files/html5_v3/progress/css/slideshow.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -482,184 +513,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/amazingslider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#style#0;n#div#8;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#video#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/source-files/source_files/html5_v4/finished/index.html">
+    <entry file="file://$PROJECT_DIR$/src/js/amazingslider.js" />
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/css/overlay-basics.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/overlay-basics.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/slideshow.css">
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/css/slideshow.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/source-files/source_files/html5_v4/finished/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$USER_HOME$/Desktop/source-files/source_files/html5_v3/finished/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1732">
-          <caret line="115" selection-start-line="22" selection-start-column="4" selection-end-line="115" />
+        <state relative-caret-position="236">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index_pragmatic.html">
+    <entry file="file://$USER_HOME$/Desktop/source-files/source_files/html5_v4/progress/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1664">
-          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/images/pic01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/images/title_fold.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/images/title_back.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/images/navigator.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/images/logo_small.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/images/dots.psd">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/images/bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/images/bg_gradient.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/images/dots.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tile.png" />
+    <entry file="file://$PROJECT_DIR$/src/tile-wide.png" />
+    <entry file="file://$PROJECT_DIR$/src/icon.png" />
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pretentious/src/index_pretentious.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="30" column="57" lean-forward="true" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/js/form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3740">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/index_pragmatic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pragmatic/src/forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
